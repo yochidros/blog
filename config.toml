@@ -3,6 +3,7 @@ languageCode = "ja-jp"
 defaultContentLanguage = "en"
 theme = "LoveIt"
 title = "よちどろ備忘録"
+canonifyurls = true
 
 # whether to use robots.txt
 # 是否使用 robots.txt
