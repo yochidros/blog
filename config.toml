@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 theme = "LoveIt"
 title = "よちどろ備忘録"
 canonifyurls = true
-publishdir = "public"
+publishdir = "docs"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
