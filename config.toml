@@ -1,4 +1,4 @@
-baseURL = "https://yochidros.github.io/blog/"
+baseURL = "https://yochidros.github.io/"
 languageCode = "ja-jp"
 defaultContentLanguage = "en"
 theme = "LoveIt"
