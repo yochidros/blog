@@ -372,6 +372,8 @@ enableEmoji = true
 [mediaTypes]
   [mediaTypes."text/plain"]
     suffixes = ["md"]
+  [mediaType."application/json"]
+   suffixes = ["association"]
 
 # Options to make output .md files
 [outputFormats.MarkDown]
