@@ -5,8 +5,8 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # Build the project.
 hugo -t LoveIt
 
-mkdir -p public/.well-known
-cp ./apple-app-site-association public/.well-known/apple-app-site-association
+#mkdir -p public/.well-known
+#cp ./apple-app-site-association 
 # Go To Public folder
 cd public
 # Add changes to git.
